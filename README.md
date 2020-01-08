@@ -1,9 +1,10 @@
 # Tweet-Generation-GPT-2
+Generating Tweets that sound like Elon Musk's Tweets
 
 # Acknowledgements
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
 * [Original Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-* The data given to the model was obtained from this [Kaggle Dataset](https://www.kaggle.com/kulgen/elon-musks-tweets)
+* The model is prompted with data obtained from this [Kaggle Dataset](https://www.kaggle.com/kulgen/elon-musks-tweets)
 
 # Results
 ```
@@ -13,20 +14,19 @@
 @CaseySpencer425 - @ELONmusk and I are not interested in getting married or having kids. We may be open to adoption, but not in a baby-making capacity.
 ```
 ```
-@kpdecko Chick Magnet - I think it's a good name for a story! pic.twitter.com/QZRQy7tSVc — Mark Jaffe (@MarkJaffe) November 16, 2014
+Elon Musk warned the world would be lost without OPEC #ClimateTalk — Joel Pollak (@joelpollak) July 1, 2017
 ```
 ```
-@kpdecko Chick Magnet. This one is a little confusing. — Matt Williams (@dartinp) November 16, 2014
+Announced launch date for next Falcon 9 activity is VAFB from LC-36 at Vandenberg . Expect 22 ULA launches in the pressroom https://t.co/BVNQz3W3bu
 ```
 ```
-@kpdecko Chick Magnet is a cool name for a story. Thanks! pic.twitter.com/kMnh6gv3mG — Matt Williams (@dartinp) November 16, 2014
+RT @TonyAcevedo about 15 minutes ago at 10:00 am PST You can still get that video later to see how progress is to make. No need to upload now!
 ```
 ```
-@kpdecko Chick Magnet. I think the title is a little confusing. pic.twitter.com/ZrT5uCJ7Y0 — Tim Dennison (@turd_tramper) November 16, 2014
+@drahutro he was great!  Here he is giving us a tour at their engineering offices in L.A. https://t.co/c2SL5iO3e0
 ```
 ```
 @CaseySpencer425 @ElonMusk @CarolTouhey @CarolTouhey: I'm sorry to hear about your decision to end your marriage. I'd love to hear your perspective on such a difficult decision. And to help explain why I don't believe in the institution of marriage.
-
 ```
 
 # License
