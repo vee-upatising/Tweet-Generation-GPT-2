@@ -10,7 +10,7 @@
 @TeslaMotors Chick Magnet. Here's some Chick Magnet. It's a hot topic because of what it means. (Don't ask me how it got that title) — Dan Sorenson (@sorensonDan) November 16, 2014
 ```
 ```
-@TeslaMotors Chick Magnet. I think it's a good name for a story… pic.twitter.com/5mYqXWXnhS — Matt Williams (@dartinp) November 16, 2014
+@CaseySpencer425 - @ELONmusk and I are not interested in getting married or having kids. We may be open to adoption, but not in a baby-making capacity.
 ```
 ```
 @kpdecko Chick Magnet - I think it's a good name for a story! pic.twitter.com/QZRQy7tSVc — Mark Jaffe (@MarkJaffe) November 16, 2014
@@ -23,6 +23,10 @@
 ```
 ```
 @kpdecko Chick Magnet. I think the title is a little confusing. pic.twitter.com/ZrT5uCJ7Y0 — Tim Dennison (@turd_tramper) November 16, 2014
+```
+```
+@CaseySpencer425 @ElonMusk @CarolTouhey @CarolTouhey: I'm sorry to hear about your decision to end your marriage. I'd love to hear your perspective on such a difficult decision. And to help explain why I don't believe in the institution of marriage.
+
 ```
 
 # License
