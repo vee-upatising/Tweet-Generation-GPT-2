@@ -2,6 +2,7 @@
 
 # Acknowledgements
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
+* [Original Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 * The data given to the model was obtained from this [Kaggle Dataset](https://www.kaggle.com/kulgen/elon-musks-tweets)
 
 # Results
