@@ -4,6 +4,26 @@
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
 * The data given to the model was obtained from this [Kaggle Dataset](https://www.kaggle.com/kulgen/elon-musks-tweets)
 
+# Results
+```
+@TeslaMotors Chick Magnet. Here's some Chick Magnet. It's a hot topic because of what it means. (Don't ask me how it got that title) — Dan Sorenson (@sorensonDan) November 16, 2014
+```
+```
+@TeslaMotors Chick Magnet. I think it's a good name for a story… pic.twitter.com/5mYqXWXnhS — Matt Williams (@dartinp) November 16, 2014
+```
+```
+@kpdecko Chick Magnet - I think it's a good name for a story! pic.twitter.com/QZRQy7tSVc — Mark Jaffe (@MarkJaffe) November 16, 2014
+```
+```
+@kpdecko Chick Magnet. This one is a little confusing. — Matt Williams (@dartinp) November 16, 2014
+```
+```
+@kpdecko Chick Magnet is a cool name for a story. Thanks! pic.twitter.com/kMnh6gv3mG — Matt Williams (@dartinp) November 16, 2014
+```
+```
+@kpdecko Chick Magnet. I think the title is a little confusing. pic.twitter.com/ZrT5uCJ7Y0 — Tim Dennison (@turd_tramper) November 16, 2014
+```
+
 # License
 
 ``` 
