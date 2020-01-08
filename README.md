@@ -1,7 +1,7 @@
 # Tweet-Generation-GPT-2
-Generating Tweets that sound like Elon Musk's Tweets <br/>
-These results were obtained using the model with 774 million parameters. It is roughly 3 GBs <br/>
-Interestingly enough, the 774M model is only around half the size of the model used in the original paper
+Generating Tweets that sound like Elon Musk's Tweets. <br/>
+These results were obtained using the model with 774 million parameters. It is roughly 3 GBs. <br/>
+Interestingly enough, the 774M model is only around half the size of the model used in the original paper.
 
 # Acknowledgements
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
