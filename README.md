@@ -9,6 +9,9 @@ Interestingly enough, the 774M model is only around half the size of the model u
 * The model is prompted with data obtained from this [Kaggle Dataset](https://www.kaggle.com/kulgen/elon-musks-tweets)
 
 # Results
+
+The performance of GPT-2 is extremely impressive. <br/>The model figured out @ replies, hash tags, and even tries to generate links (which aren't valid of course).
+
 ```
 @TeslaMotors Chick Magnet. Here's some Chick Magnet. It's a hot topic because of what it means. (Don't ask me how it got that title) — Dan Sorenson (@sorensonDan) November 16, 2014
 ```
